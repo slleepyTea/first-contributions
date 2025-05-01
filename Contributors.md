@@ -2379,12 +2379,12 @@ Matthew Burgos
 - [Mahdi Javadi](https://github.com/m-djawadi)
 - [Rohit Dhall](https://github.com/Rohitdhall987)
 - NaNaJyu3
+- JFrankl
 - [Jonas newbeans](https://github.com/nevvbeans)
 - GhXsTReZy
 -Mustafa Magdy aka Farkha (https://github.com/MustafaMagdyy)
 -[aieng-abdullah](https://github.com/aieng-abdullah)
 - [DPAC](https://github.com/ldpacl)
-- 
 -[Abinanthan-CG](https://github.com/Abinanthan-CG)
 - [JoroAmboara] (https://github.com/JoroAmboara)
 - [BISCUITIC](https://github.com/BISCUITIC)
@@ -2499,6 +2499,7 @@ Matthew Burgos
 - [Kim Songmok](https://github.com/klu2300090005)
 - [Mirmovsum Abasov](https://github.com/mirmovsum-abasov)
 - April Kidd
+- 
 - [the_robats](https://github.com/therobats1)
 - [MuhammadUsmanGM](https://github.com/MuhammadUsmanGM)
 [Nish2005karsh](https://github.com/Nish2005karsh)
